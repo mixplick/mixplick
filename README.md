@@ -1,5 +1,3 @@
-### Hi 👋, I'm Igor França
-
 <h1 align="center">Hi 👋, I'm Igor França</h1>
 <h3 align="center">
 
